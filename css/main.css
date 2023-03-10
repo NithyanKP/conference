@@ -1760,13 +1760,13 @@ h1 {
 }
 
 #contact-details ul {
-  text-align: center;
+  text-align: justify;
 }
 
 #contact-details ul li {
   display: block;
-  padding-top: 2%;
-  padding-bottom: 2%;
+  padding-top: 4%;
+  padding-bottom: 4%;
 }
 
 #contact-details ul li i {
