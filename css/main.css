@@ -1759,6 +1759,24 @@ h1 {
   z-index: 999;
 }
 
+#contact-details ul {
+  text-align: center;
+}
+
+#contact-details ul li {
+  display: block;
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+
+#contact-details ul li i {
+  text-align: center;
+  padding: 0 12px;
+  font-size: 28px;
+  vertical-align: middle;
+  color: #FF7B54;
+}
+
 #contact-text ul {
   text-align: center;
 }
